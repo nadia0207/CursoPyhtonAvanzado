@@ -1,6 +1,6 @@
 print('-----------------------------------------------')
 print('-----------------------------------------------')
-print('*****MANEJO DE EXCEPCIONES*****')
+print('****MANEJO DE EXCEPCIONES****')
 
 def dividir(numerador, denominador):
     try:
